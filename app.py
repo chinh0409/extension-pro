@@ -8,7 +8,7 @@ from datetime import datetime
 from PIL import Image
 from urllib.parse import urlparse
 import requests
-from google import genai
+import google.generativeai as genai
 from google.genai.types import GenerateImagesConfig
 
 app = Flask(__name__)
