@@ -1,0 +1,6 @@
+flask
+openai
+requests
+pillow
+google-generativeai
+google-cloud-storage
